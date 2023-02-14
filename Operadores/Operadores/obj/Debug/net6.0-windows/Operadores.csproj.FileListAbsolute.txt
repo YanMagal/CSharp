@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Operadores\Operadores\bin\Debug\net6.0-windows\Operadores.exe
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Operadores\Operadores\bin\Debug\net6.0-windows\Operadores.deps.json
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Operadores\Operadores\bin\Debug\net6.0-windows\Operadores.runtimeconfig.json
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Operadores\Operadores\bin\Debug\net6.0-windows\Operadores.dll
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Operadores\Operadores\bin\Debug\net6.0-windows\Operadores.pdb
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Operadores\Operadores\obj\Debug\net6.0-windows\Operadores.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Operadores\Operadores\obj\Debug\net6.0-windows\Operadores.Form.resources
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Operadores\Operadores\obj\Debug\net6.0-windows\Operadores.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Operadores\Operadores\obj\Debug\net6.0-windows\Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Operadores\Operadores\obj\Debug\net6.0-windows\Operadores.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Operadores\Operadores\obj\Debug\net6.0-windows\Operadores.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Operadores\Operadores\obj\Debug\net6.0-windows\Operadores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Operadores\Operadores\obj\Debug\net6.0-windows\Operadores.dll
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Operadores\Operadores\obj\Debug\net6.0-windows\refint\Operadores.dll
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Operadores\Operadores\obj\Debug\net6.0-windows\Operadores.pdb
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Operadores\Operadores\obj\Debug\net6.0-windows\Operadores.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Operadores\Operadores\obj\Debug\net6.0-windows\ref\Operadores.dll
