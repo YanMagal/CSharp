@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\YAN\HelloWorld\DiaDaSemana\DiaDaSemana\bin\Debug\net6.0-windows\DiaDaSemana.exe
+C:\Users\Usuario\Desktop\YAN\HelloWorld\DiaDaSemana\DiaDaSemana\bin\Debug\net6.0-windows\DiaDaSemana.deps.json
+C:\Users\Usuario\Desktop\YAN\HelloWorld\DiaDaSemana\DiaDaSemana\bin\Debug\net6.0-windows\DiaDaSemana.runtimeconfig.json
+C:\Users\Usuario\Desktop\YAN\HelloWorld\DiaDaSemana\DiaDaSemana\bin\Debug\net6.0-windows\DiaDaSemana.dll
+C:\Users\Usuario\Desktop\YAN\HelloWorld\DiaDaSemana\DiaDaSemana\bin\Debug\net6.0-windows\DiaDaSemana.pdb
+C:\Users\Usuario\Desktop\YAN\HelloWorld\DiaDaSemana\DiaDaSemana\obj\Debug\net6.0-windows\DiaDaSemana.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\DiaDaSemana\DiaDaSemana\obj\Debug\net6.0-windows\DiaDaSemana.Form1.resources
+C:\Users\Usuario\Desktop\YAN\HelloWorld\DiaDaSemana\DiaDaSemana\obj\Debug\net6.0-windows\DiaDaSemana.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\DiaDaSemana\DiaDaSemana\obj\Debug\net6.0-windows\DiaDaSemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\YAN\HelloWorld\DiaDaSemana\DiaDaSemana\obj\Debug\net6.0-windows\DiaDaSemana.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\DiaDaSemana\DiaDaSemana\obj\Debug\net6.0-windows\DiaDaSemana.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\YAN\HelloWorld\DiaDaSemana\DiaDaSemana\obj\Debug\net6.0-windows\DiaDaSemana.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\DiaDaSemana\DiaDaSemana\obj\Debug\net6.0-windows\DiaDaSemana.dll
+C:\Users\Usuario\Desktop\YAN\HelloWorld\DiaDaSemana\DiaDaSemana\obj\Debug\net6.0-windows\refint\DiaDaSemana.dll
+C:\Users\Usuario\Desktop\YAN\HelloWorld\DiaDaSemana\DiaDaSemana\obj\Debug\net6.0-windows\DiaDaSemana.pdb
+C:\Users\Usuario\Desktop\YAN\HelloWorld\DiaDaSemana\DiaDaSemana\obj\Debug\net6.0-windows\DiaDaSemana.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\DiaDaSemana\DiaDaSemana\obj\Debug\net6.0-windows\ref\DiaDaSemana.dll
