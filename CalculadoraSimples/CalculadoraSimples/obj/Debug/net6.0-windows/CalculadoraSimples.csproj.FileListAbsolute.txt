@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CalculadoraSimples\CalculadoraSimples\bin\Debug\net6.0-windows\CalculadoraSimples.exe
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CalculadoraSimples\CalculadoraSimples\bin\Debug\net6.0-windows\CalculadoraSimples.deps.json
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CalculadoraSimples\CalculadoraSimples\bin\Debug\net6.0-windows\CalculadoraSimples.runtimeconfig.json
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CalculadoraSimples\CalculadoraSimples\bin\Debug\net6.0-windows\CalculadoraSimples.dll
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CalculadoraSimples\CalculadoraSimples\bin\Debug\net6.0-windows\CalculadoraSimples.pdb
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CalculadoraSimples\CalculadoraSimples\obj\Debug\net6.0-windows\CalculadoraSimples.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CalculadoraSimples\CalculadoraSimples\obj\Debug\net6.0-windows\CalculadoraSimples.Form1.resources
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CalculadoraSimples\CalculadoraSimples\obj\Debug\net6.0-windows\CalculadoraSimples.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CalculadoraSimples\CalculadoraSimples\obj\Debug\net6.0-windows\CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CalculadoraSimples\CalculadoraSimples\obj\Debug\net6.0-windows\CalculadoraSimples.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CalculadoraSimples\CalculadoraSimples\obj\Debug\net6.0-windows\CalculadoraSimples.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CalculadoraSimples\CalculadoraSimples\obj\Debug\net6.0-windows\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CalculadoraSimples\CalculadoraSimples\obj\Debug\net6.0-windows\CalculadoraSimples.dll
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CalculadoraSimples\CalculadoraSimples\obj\Debug\net6.0-windows\refint\CalculadoraSimples.dll
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CalculadoraSimples\CalculadoraSimples\obj\Debug\net6.0-windows\CalculadoraSimples.pdb
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CalculadoraSimples\CalculadoraSimples\obj\Debug\net6.0-windows\CalculadoraSimples.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CalculadoraSimples\CalculadoraSimples\obj\Debug\net6.0-windows\ref\CalculadoraSimples.dll
