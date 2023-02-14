@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Pizzaria\Pizzaria\bin\Debug\net6.0-windows\Pizzaria.exe
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Pizzaria\Pizzaria\bin\Debug\net6.0-windows\Pizzaria.deps.json
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Pizzaria\Pizzaria\bin\Debug\net6.0-windows\Pizzaria.runtimeconfig.json
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Pizzaria\Pizzaria\bin\Debug\net6.0-windows\Pizzaria.dll
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Pizzaria\Pizzaria\bin\Debug\net6.0-windows\Pizzaria.pdb
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Pizzaria\Pizzaria\obj\Debug\net6.0-windows\Pizzaria.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Pizzaria\Pizzaria\obj\Debug\net6.0-windows\Pizzaria.Form1.resources
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Pizzaria\Pizzaria\obj\Debug\net6.0-windows\Pizzaria.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Pizzaria\Pizzaria\obj\Debug\net6.0-windows\Pizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Pizzaria\Pizzaria\obj\Debug\net6.0-windows\Pizzaria.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Pizzaria\Pizzaria\obj\Debug\net6.0-windows\Pizzaria.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Pizzaria\Pizzaria\obj\Debug\net6.0-windows\Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Pizzaria\Pizzaria\obj\Debug\net6.0-windows\Pizzaria.dll
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Pizzaria\Pizzaria\obj\Debug\net6.0-windows\refint\Pizzaria.dll
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Pizzaria\Pizzaria\obj\Debug\net6.0-windows\Pizzaria.pdb
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Pizzaria\Pizzaria\obj\Debug\net6.0-windows\Pizzaria.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\Pizzaria\Pizzaria\obj\Debug\net6.0-windows\ref\Pizzaria.dll
