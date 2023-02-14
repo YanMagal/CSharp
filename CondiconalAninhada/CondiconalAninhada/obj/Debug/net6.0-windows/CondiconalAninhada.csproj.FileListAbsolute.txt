@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CondiconalAninhada\CondiconalAninhada\obj\Debug\net6.0-windows\CondiconalAninhada.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CondiconalAninhada\CondiconalAninhada\obj\Debug\net6.0-windows\CondiconalAninhada.Form1.resources
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CondiconalAninhada\CondiconalAninhada\obj\Debug\net6.0-windows\CondiconalAninhada.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CondiconalAninhada\CondiconalAninhada\obj\Debug\net6.0-windows\CondiconalAninhada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CondiconalAninhada\CondiconalAninhada\obj\Debug\net6.0-windows\CondiconalAninhada.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CondiconalAninhada\CondiconalAninhada\obj\Debug\net6.0-windows\CondiconalAninhada.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CondiconalAninhada\CondiconalAninhada\obj\Debug\net6.0-windows\CondiconalAninhada.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CondiconalAninhada\CondiconalAninhada\bin\Debug\net6.0-windows\CondiconalAninhada.exe
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CondiconalAninhada\CondiconalAninhada\bin\Debug\net6.0-windows\CondiconalAninhada.deps.json
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CondiconalAninhada\CondiconalAninhada\bin\Debug\net6.0-windows\CondiconalAninhada.runtimeconfig.json
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CondiconalAninhada\CondiconalAninhada\bin\Debug\net6.0-windows\CondiconalAninhada.dll
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CondiconalAninhada\CondiconalAninhada\bin\Debug\net6.0-windows\CondiconalAninhada.pdb
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CondiconalAninhada\CondiconalAninhada\obj\Debug\net6.0-windows\CondiconalAninhada.dll
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CondiconalAninhada\CondiconalAninhada\obj\Debug\net6.0-windows\refint\CondiconalAninhada.dll
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CondiconalAninhada\CondiconalAninhada\obj\Debug\net6.0-windows\CondiconalAninhada.pdb
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CondiconalAninhada\CondiconalAninhada\obj\Debug\net6.0-windows\CondiconalAninhada.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\YAN\HelloWorld\CondiconalAninhada\CondiconalAninhada\obj\Debug\net6.0-windows\ref\CondiconalAninhada.dll
